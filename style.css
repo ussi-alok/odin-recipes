@@ -1,4 +1,8 @@
 *{
     text-align: center;
 }
+h1,h2,h3,a{
+    color: #c63c00;
+    text-transform: capitalize;
+}
 
